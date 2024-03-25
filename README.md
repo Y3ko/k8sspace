@@ -43,7 +43,7 @@ Bu belge, Ubuntu 20.04 sunucuları kullanarak sıfırdan bir Kubernetes test ort
 
 ### 4. Ingress Kurulumu:
 
-1. MetalLB ile birlikte Ingress kurulumu için [Ingress kurulum dökümanını buradan takip edin](https://medium.com/tektutor/using-nginx-ingress-controller-in-kubernetes-bare-metal-setup-890eb4e7772).
+1. MetalLB ile birlikte Ingress kurulumu için [Ingress kurulum dökümanını buradan takip edin](https://onurbolatoglu.medium.com/kubernetes-ingress-for-kubeadm-2fba18e9ba45).
 
 ### 5. NFS Server Kurulumu:
 
